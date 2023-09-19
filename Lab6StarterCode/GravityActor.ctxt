@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GravityActor
+comment1.params=
+comment1.target=boolean\ isBlocked()
+comment2.params=
+comment2.target=boolean\ isFalling()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
